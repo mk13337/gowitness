@@ -15,8 +15,9 @@ This is a modified version of gowitness that uses python3 along with the jinja2 
 Current features:
 - Screenshot filtering by status codes 
 - Grouping screenshots by similarity based on perception hashes
+- Viewing a screenshot through a separate modal window
 
-![](https://raw.githubusercontent.com/mk13337/gowitness/master/images/demo2.gif)
+![](https://raw.githubusercontent.com/mk13337/gowitness/master/images/main_demo.gif)
 
 ## Project Usage
 
