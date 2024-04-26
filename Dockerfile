@@ -29,4 +29,4 @@ EXPOSE 7171
 VOLUME ["/data"]
 WORKDIR /data
 
-ENTRYPOINT ["dumb-init", "--"]
+ENTRYPOINT ["/bin/sh", "/app/run.sh"]
