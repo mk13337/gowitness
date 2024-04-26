@@ -16,6 +16,8 @@ Current features:
 - Screenshot filtering by status codes 
 - Grouping screenshots by similarity based on perception hashes
 
+![](https://raw.githubusercontent.com/mk13337/gowitness/master/images/demo2.gif)
+
 ## Project Usage
 
 ### Via docker
